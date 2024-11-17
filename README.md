@@ -13,7 +13,7 @@
 
  
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white
 
 *Aplicações e dados*
 
