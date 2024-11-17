@@ -13,7 +13,7 @@
 
  
 
-(https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
+[(https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)]
 
 *Aplicações e dados*
 
