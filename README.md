@@ -39,7 +39,7 @@
 
 [![card](https://github-readme-stats.vercel.app/api?username=Leonardo-de-Moura&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Leonardo-de-Moura](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-de-Moura&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Afonso-Filho](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-aafonso&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Onde me encontrar
 
