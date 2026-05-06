@@ -2,7 +2,7 @@
 
 **`Developer FULL-STACK`**
 
-My name is Afonso Filho, I am 16 years old and I am from Cedro, Ceará. I am taking an integrated computer science course at IFCE Campus Cedro. I am fascinated by programming and technology.
+My name is Afonso Filho, I am 17 years old and I am from Cedro, Ceará. I am taking an integrated computer science course at IFCE Campus Cedro. I am fascinated by programming and technology.
 
 ## Languages ​​and technologies 🤖
 
