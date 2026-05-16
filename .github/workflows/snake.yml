@@ -6,21 +6,24 @@ on:
 
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: Dev-aafonso
 
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=00bfff&color_dots=#0D1117,#012a4a,#01497c,#2a6fdb,#61a5ff
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=00bfff&color_dots=#161B22,#1e3a5f,#0052cc,#00bfff,#7fdfff
 
-            dist/github-contribution-grid-snake.svg?color_snake=0052cc&color_dots=#ebedf0,#c6dbff,#7fb3ff,#2f81f7,#0052cc
-
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Push Snake Animation
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
