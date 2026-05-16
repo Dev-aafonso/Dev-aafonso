@@ -53,21 +53,25 @@
   <img 
     width="49%" 
     src="https://github-readme-stats.vercel.app/api?username=Dev-aafonso&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=0052cc&text_color=ffffff&icon_color=0052cc&hide_border=true" 
+    alt="GitHub Stats"
   />
   <img 
     width="49%" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-aafonso&theme=tokyonight&background=0D1117&ring=0052cc&fire=0052cc&currStreakLabel=0052cc&sideLabels=ffffff&hide_border=true" 
+    alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img 
     width="49%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-aafonso&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=0052cc&text_color=ffffff&hide_border=true&show_percent=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-aafonso&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=0052cc&text_color=ffffff&hide_border=true&hide_progress=false" 
+    alt="Top Languages"
   />
   <img 
     width="49%" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dev-aafonso&theme=gotham" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-aafonso&layout=donut&theme=tokyonight&bg_color=0D1117&title_color=0052cc&text_color=ffffff&hide_border=true" 
+    alt="Languages Donut"
   />
 </p>
 
