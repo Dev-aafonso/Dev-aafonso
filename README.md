@@ -99,8 +99,8 @@ My name is Afonso Filho, I am 17 years old and I am from Cedro, Ceará. I am tak
 />
 <img 
     align="left" 
-    alt=""
+    alt="GitHub Top Languages"
     height="200px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-aafonso&theme=tokyonight&langs_count=13"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-aafonso&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=13"
 />
