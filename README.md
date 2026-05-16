@@ -111,6 +111,7 @@
     alt="snake animation"
   />
 </p>
+
 ---
 
 # 🌐 Connect with Me
