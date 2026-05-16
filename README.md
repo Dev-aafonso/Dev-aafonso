@@ -88,11 +88,12 @@
 
 ---
 
-# 🐍 Snake Animation
+# 🐍 Contribuiton Snake Animation
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Dev-aafonso/Dev-aafonso/output/github-contribution-grid-snake-dark.svg" 
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/Dev-aafonso/Dev-aafonso/output/github-contribution-grid-snake-dark.svg"
     alt="snake animation"
   />
 </p>
