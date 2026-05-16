@@ -1,103 +1,98 @@
 # Hi Dev-aafonso 👨🏻‍💻
 
-**`Developer FULL-STACK`**
+<h1 align="center">Afonso Filho</h1>
 
-My name is Afonso Filho, I am 17 years old and I am from Cedro, Ceará. I am taking an integrated computer science course at IFCE Campus Cedro. I am fascinated by programming and technology.
+<h3 align="center">
+Developer FULL-STACK from Brazil 🇧🇷
+</h3>
 
-## Languages ​​and technologies 🤖
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?color=7A3FFF&size=35&center=true&vCenter=true&width=1000&lines=Developer+FULL-STACK;Python+%7C+JavaScript+%7C+TypeScript;IFCE+Campus+Cedro;Passionate+about+Technology;Always+learning+new+technologies"
+  />
+</p>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git"
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+---
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+## 👨🏻‍💻 About Me
 
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySql" 
-    title="MySql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img    
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img 
-    align="left" 
-    alt="Node" 
-    title="Node"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
+- 🎓 Integrated Computer Science student at IFCE Campus Cedro
+- 💻 Passionate about programming and technology
+- 🚀 Focused on Full-Stack Development
+- 🌎 From Ceará, Brazil
 
-</br>
-</br>
+---
 
-## Statistics 📊
+## 🤖 Languages and Technologies
 
-<img 
-  align="left" 
-  height="200em" 
-  src="https://github-readme-stats.vercel.app/api?username=Dev-aafonso&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
-/>
+<p align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,nodejs,mysql,bootstrap,git"
+  />
+</p>
 
-<img 
-  align="left" 
-  height="200em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-aafonso&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-/>
+---
+
+## 📊 Statistics
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-aafonso&theme=tokyonight&hide_border=true"
+  />
+
+  <img
+    height="180em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dev-aafonso&theme=tokyonight"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev-aafonso&theme=tokyonight"
+  />
+
+  <img
+    height="180em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dev-aafonso&theme=tokyonight"
+  />
+</p>
+
+---
+
+## 🏆 GitHub Analytics
+
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-profile-trophy.vercel.app/?username=Dev-aafonso&theme=tokyonight&no-frame=true&row=1&column=6"
+  />
+</p>
+
+---
+
+## 🐍 Snake Animation
+
+<p align="center">
+  <img 
+    src="https://github.com/Dev-aafonso/Dev-aafonso/blob/output/github-contribution-grid-snake.svg"
+    alt="Snake animation"
+  />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/Dev-aafonso">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ Thanks for visiting my profile ✨
+</p>
