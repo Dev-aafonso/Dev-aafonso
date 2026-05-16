@@ -88,7 +88,21 @@
 
 ---
 
-# 🐍 Contribuiton Snake Animation
+# Contribuiton and Snake Animation
+
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=2500&color=00BFFF&center=true&vCenter=true&width=900&lines=Code+Create+Innovate;Building+modern+and+creative+solutions;Turning+ideas+into+real+projects"
+  />
+</p>
+
+<p align="center">
+  <img 
+    width="80%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-aafonso&bg_color=0D1117&color=00BFFF&line=0052cc&point=FFFFFF&area=true&hide_border=true"
+  />
+</p>
 
 <p align="center">
   <img
@@ -130,18 +144,6 @@
 
 ---
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=2500&color=00BFFF&center=true&vCenter=true&width=900&lines=Code+Create+Innovate;Building+modern+and+creative+solutions;Turning+ideas+into+real+projects"
-  />
-</p>
-
-<p align="center">
-  <img 
-    width="80%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-aafonso&bg_color=0D1117&color=00BFFF&line=0052cc&point=FFFFFF&area=true&hide_border=true"
-  />
-</p>
 
 <p align="center">
   <img 
