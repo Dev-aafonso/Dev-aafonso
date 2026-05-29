@@ -147,7 +147,7 @@
 
 <p align="center">
   <img 
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=3000&color=00BFFF&center=true&vCenter=true&width=900&lines=Dream.+Build.+Inspire.;Technology+with+purpose.;Creating+the+future,+one+idea+at+a+time."
   />
 </p>
 
