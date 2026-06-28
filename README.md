@@ -50,7 +50,7 @@
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,cs,react,nextjs,tailwind,nodejs,express,mysql,sqlite,mongodb,git,npm,postman,docker,linux,figma,vscode,bootstrap&theme=dark"
+    src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,cs,react,nextjs,tailwind,nodejs,express,mysql,mongodb,git,docker,linux,figma,postman,aws,prisma,vercel&theme=dark"
   />
 </p>
 
