@@ -123,7 +123,7 @@
     />
   </a>
 
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="[https://www.linkedin.com](https://www.linkedin.com/in/afonso-filho-ab43811a6/?skipRedirect=true)" target="_blank">
     <img 
       src="https://img.shields.io/badge/LinkedIn-0052cc?style=for-the-badge&logo=linkedin&logoColor=white"
     />
