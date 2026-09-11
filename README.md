@@ -42,7 +42,7 @@
 
 I'm a **Full-Stack Developer** interested in software engineering, web development and the creation of modern, reliable and scalable applications.
 
-Currently studying **Integrated Computer Science at IFCE — Campus Cedro**, while developing practical projects and continuously improving my knowledge across frontend, backend, databases and software architecture.
+Currently studying **Integrated Computing at IFCE — Campus Cedro**, while developing practical projects and continuously improving my knowledge across frontend, backend, databases and software architecture.
 
 ### Areas of Interest
 
