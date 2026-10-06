@@ -267,7 +267,7 @@ I'm continuously working on improving my skills in **software architecture, full
     <img src="https://img.shields.io/badge/LinkedIn-Afonso%20Filho-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn">
   </a>
 
-<a href="mailto:afonsofilho692@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=afonsofilho692@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email">
 </a>
 
